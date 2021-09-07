@@ -1,3 +1,2 @@
-# Pong
-Game Pong
-Muhammad Nasik Iqbal
+# Game Pong
+Muhammad Nasik Iqbal/463
